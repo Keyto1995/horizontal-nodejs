@@ -5,7 +5,7 @@ const app = new Koa();
 const router = new Router();
 
 router.get("/ping", (ctx, next) => {
-  ctx.body = "Pong1";
+  ctx.body = "Pong";
 });
 
 app.use(router.routes()).use(router.allowedMethods());
