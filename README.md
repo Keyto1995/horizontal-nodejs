@@ -6,3 +6,19 @@
 
 - nodejs 16
 - koa 2
+
+## 安装
+
+```bash
+$ npm install
+```
+
+## 启动
+
+```bash
+# dev
+$ npm run dev
+
+# prod
+$ npm start
+```
