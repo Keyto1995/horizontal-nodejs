@@ -22,3 +22,6 @@ $ npm run dev
 # prod
 $ npm start
 ```
+
+- [x] /ping
+- [x] /clientIP
